@@ -1,0 +1,11 @@
+nicegui
+requests
+python-dotenv
+rich
+pydantic
+moviepy
+Pillow
+imageio
+imageio-ffmpeg
+tqdm
+PyYAML

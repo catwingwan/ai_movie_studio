@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Output
+output/
+logs/
+
+# Generated AI Assets
+data/projects/*/assets/
