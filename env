@@ -1,0 +1,17 @@
+# OpenAi
+OPENAI_API_KEY=
+MODEL=gpt-5
+
+# Ollama
+OLLAMA_MODEL=llama3.2:3b
+OLLAMA_URL=http://localhost:11434
+
+
+# Future providers
+IMAGE_PROVIDER=flux
+VIDEO_PROVIDER=kling
+VOICE_PROVIDER=elevenlabs
+
+# Project
+PROJECT_NAME=AI Movie Studio
+LANGUAGE=en
